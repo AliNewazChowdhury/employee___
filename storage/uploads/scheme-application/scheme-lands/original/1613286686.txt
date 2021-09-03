@@ -1,0 +1,4 @@
+git tash for save data temporary
+
+git tash pop for get old data
+git status to get status
